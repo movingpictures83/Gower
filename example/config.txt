@@ -1,0 +1,2 @@
+Prefix plugins/Gower/example/
+Plugin Gower inputfile abundN.csv outputfile abundN.gower.csv
